@@ -1,5 +1,5 @@
-<img src="https://github.com/rc1dgp/guess-my-number/blob/main/assets/project-preview-1.png?raw=true" ></img>
-<img src="https://github.com/rc1dgp/guess-my-number/blob/main/assets/project-preview-2.png?raw=true" ></img>
+<img src="https://github.com/rc1dgp/guessing-game/blob/main/guess-my-number-main/assets/project-preview-1.png?raw=true" ></img>
+<img src="https://github.com/rc1dgp/guessing-game/blob/main/guess-my-number-main/assets/project-preview-2.png?raw=true" ></img>
 
 <h1>JavaScript Number Guessing Game Project</h1>
 
