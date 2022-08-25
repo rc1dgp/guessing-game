@@ -3,7 +3,7 @@
 
 <h1>JavaScript Number Guessing Game Project</h1>
 
--Want to check out the game in action <a href="https://predict-the-number.netlify.app/">Click here</a>
+-Want to check out the game in action? <a href="https://predict-the-number.netlify.app/">Click here</a>
 <h2>Project Objective</h2>
 This JavaScript number guessing game project's main goal is to code a game where the user must guess a randomly generated number from 1 to 20.
 Depending on the number input, the user receives different messages until they guess the secret number.
